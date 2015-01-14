@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BudgetTracking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="category_prompt">Choose a category</string>
+
+    <string-array name="category_arrays">
+        <item>Clothing</item>
+        <item>Sports</item>
+        <item>Cars</item>
+        <item>Videogames</item>
+        <item>Finances</item>
+        <item>Food</item>
+        <item>ComputerScience</item>
+        <item>Home</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Date Insert:"
+        android:layout_marginTop="15dip"
+        android:layout_marginBottom="10dip"
+        />
+    <TextView
+        android:id="@+id/view_date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Amount Insert:"
+        android:layout_marginTop="15dip"
+        android:layout_marginBottom="10dip"
+        />
+    <TextView
+        android:id="@+id/view_amount"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Category Insert:"
+        android:layout_marginTop="15dip"
+        android:layout_marginBottom="10dip"
+        />
+    <TextView
+        android:id="@+id/view_category"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Description Insert:"
+        android:layout_marginTop="15dip"
+        android:layout_marginBottom="10dip"
+        />
+    <TextView
+        android:id="@+id/view_description"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>
